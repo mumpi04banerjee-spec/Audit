@@ -1,0 +1,6 @@
+{
+  "name": "SEO Genius AI",
+  "description": "AI-Powered Website Audit and SEO Analysis SaaS Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
